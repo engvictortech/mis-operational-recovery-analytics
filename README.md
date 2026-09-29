@@ -12,6 +12,7 @@
 - 🐍 [Scripts Python](python/)
 - 🗄️ [Scripts SQL](sql/)
 - 🖼️ [Imagens do Dashboard](docs/images/)
+
 Projeto end-to-end de **Management Information System (MIS)** aplicado a uma operação simulada de cobrança e contact center, integrando **Python, SQL Server, modelagem dimensional, ETL, Data Quality e Power BI** para transformar dados operacionais em indicadores gerenciais e informações para tomada de decisão.
 
 > **Nota de transparência:** este é um projeto demonstrativo de portfólio, desenvolvido com finalidade educacional e profissional.  
