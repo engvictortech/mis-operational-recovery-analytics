@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Variáveis e credenciais
+.env
+.env.*
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Power BI temporário
+~$*.pbix
+
+# SQL Server / backups locais
+*.bak
+*.mdf
+*.ldf

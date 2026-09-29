@@ -1,0 +1,9 @@
+﻿equipe_id,nome_equipe,operacao,turno
+1,Equipe Alfa,Cobrança,Manhã
+2,Equipe Beta,Cobrança,Manhã
+3,Equipe Gama,Cobrança,Tarde
+4,Equipe Delta,Cobrança,Tarde
+5,Equipe Epsilon,Retenção,Manhã
+6,Equipe Zeta,Retenção,Tarde
+7,Equipe Eta,Reconquista,Manhã
+8,Equipe Theta,Reconquista,Tarde

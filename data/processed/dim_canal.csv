@@ -1,0 +1,5 @@
+﻿canal_id,nome_canal,tipo_canal
+1,Telefone,Humano
+2,WhatsApp,Digital
+3,SMS,Digital
+4,E-mail,Digital
