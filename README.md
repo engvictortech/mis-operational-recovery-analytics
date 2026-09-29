@@ -1,5 +1,17 @@
 # 📊 MIS — Performance Operacional e Recuperação de Crédito
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-23%2F23%20Regras-2E8B57)
+![ETL](https://img.shields.io/badge/ETL-Python%20%2B%20SQL-4B5563)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
 
+### 🔗 Acesso rápido
+
+- 📊 [Dashboard Power BI](powerbi/MIS_EXSEN_Dashboard.pbix)
+- 🐍 [Scripts Python](python/)
+- 🗄️ [Scripts SQL](sql/)
+- 🖼️ [Imagens do Dashboard](docs/images/)
 Projeto end-to-end de **Management Information System (MIS)** aplicado a uma operação simulada de cobrança e contact center, integrando **Python, SQL Server, modelagem dimensional, ETL, Data Quality e Power BI** para transformar dados operacionais em indicadores gerenciais e informações para tomada de decisão.
 
 > **Nota de transparência:** este é um projeto demonstrativo de portfólio, desenvolvido com finalidade educacional e profissional.  
